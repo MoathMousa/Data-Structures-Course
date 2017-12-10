@@ -1,0 +1,11 @@
+Algeria/Algeria.txt
+Iraq/Iraq.txt
+Jordan/Jordan.txt
+Morocco/Morocco.txt
+Oman/oman.txt
+Palestine/Palestine.txt
+bmgnmbm/bmgnmbm.txt
+mo/mo.txt
+nolm/nolm.txt
+sami/sami.txt
+sami1/sami1.txt

@@ -1,0 +1,7 @@
+( 2 * 5 )		true		2 5 * 		10.0
+4 / ( 2 - 2 )		true		4 2 2 - / 		Error, Division by Zero!
+( 2 + 3 ) * ( 2 )		true		2 3 + 2 * 		10.0
+( ( ( 2 ) )		false		 - 		 - 
+* 2 + 5		false		 - 		 - 
+2 + 5 *		false		 - 		 - 
+2 + + 5		false		 - 		 - 

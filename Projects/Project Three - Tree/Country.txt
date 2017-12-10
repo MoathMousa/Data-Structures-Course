@@ -1,0 +1,7 @@
+Algeria / Algeria.txt
+Iraq / Iraq.txt
+Jordan / Jordan.txt
+Morocco / Morocco.txt
+Oman / oman.txt
+Palestine / Palestine.txt
+

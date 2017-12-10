@@ -1,0 +1,3 @@
+Mark Weiss:Data Structures and Algorithm Analysis:3rd: Wesley:100.0:1
+Yvonne Rogers, Helen Sharp: Interaction Design: 4th: Wiley:120.0:5
+Daniel Liang:Intro to Java Programming:10th: Pearson:150.0:1
